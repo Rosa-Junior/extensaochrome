@@ -18,6 +18,7 @@ agenda-de-compromissos/
 ├── imgs/               # Pasta contendo os ícones da extensão
 │   ├── icon128.png
 │   ├── icon48.png
+│   ├── icon32.png
 │   └── icon16.png
 │
 ├── manifest.json       # Configuração da extensão do Chrome
