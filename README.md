@@ -34,11 +34,21 @@ agenda-de-compromissos/
 
 # :floppy_disk: Manual do usuário:
 
-**-Baixe o Sublime Text e salve os arquivos deste repositório em uma pasta (.jason, .html, .js, .css.)**
+**-Faça o download ou clone este repositório no seu computador**
 
 **-Vá no Google Chrome na aba de extensões e selecione o modo de desenvolvedor.**
 
 **-Clique em "Carregar sem Compactação" e selecione a pasta onde você salvou os arquivos.**
+
+# :floppy_disk: Como usar a extensão:
+
+**-Clique no ícone da Agenda de Compromissos na barra de ferramentas do Chrome**
+
+**-Digite o nome do compromisso e clique no calendário para selecionar data e hora.**
+
+**-Clique em "Adicionar" para adicionar um compromisso.**
+
+**-Clique em "Deletar" para apagar um compromisso.**
 
 # :computer: Tecnologias e técnicas utilizadas:
 
