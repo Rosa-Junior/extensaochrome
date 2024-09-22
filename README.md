@@ -23,7 +23,7 @@ agenda-de-compromissos/
 │
 ├── manifest.json       # Configuração da extensão do Chrome
 ├── popup.html          # HTML da interface do popup
-├── script.js           # Lógica do Pomodoro em JavaScript
+├── popup.js           # Lógica do Pomodoro em JavaScript
 ├── styles.css          # Estilos da interface em CSS
 └── README.md           # Este arquivo de documentação
 ```
